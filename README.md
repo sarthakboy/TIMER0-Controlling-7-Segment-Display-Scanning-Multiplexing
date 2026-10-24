@@ -83,6 +83,10 @@ For the current value `120408`, the intended display is:
 
 Each digit is activated separately while its segment pattern is written to `PORTC`. Rapidly repeating this sequence makes all eight digits appear illuminated continuously.
 
+### 3. Linkedln Post Video Link
+
+Link:- https://lnkd.in/p/gc7Q-Hgm
+
 ## 📚 Concepts Practiced
 
 - AVR Timer0 and prescalers
